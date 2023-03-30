@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: walking animation
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 8af5681cefe937745b0d0727c5bed73e, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 1269281220, guid: 8af5681cefe937745b0d0727c5bed73e, type: 3}
+  - {fileID: 467220522, guid: 8af5681cefe937745b0d0727c5bed73e, type: 3}
+  - {fileID: 1220668322, guid: 8af5681cefe937745b0d0727c5bed73e, type: 3}
+  - {fileID: -1020587024, guid: 8af5681cefe937745b0d0727c5bed73e, type: 3}
+  - {fileID: 2130467203, guid: 8af5681cefe937745b0d0727c5bed73e, type: 3}
+  - {fileID: -145037858, guid: 8af5681cefe937745b0d0727c5bed73e, type: 3}
+  - {fileID: -1315153258, guid: 8af5681cefe937745b0d0727c5bed73e, type: 3}
+  - {fileID: -2107745520, guid: 8af5681cefe937745b0d0727c5bed73e, type: 3}
+  - {fileID: -721171930, guid: 8af5681cefe937745b0d0727c5bed73e, type: 3}
+  - {fileID: -613759999, guid: 8af5681cefe937745b0d0727c5bed73e, type: 3}
+  - {fileID: -36790026, guid: 8af5681cefe937745b0d0727c5bed73e, type: 3}
+  - {fileID: 1051378812, guid: 8af5681cefe937745b0d0727c5bed73e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - walking animation frames_9
+  - walking animation frames_8
+  - walking animation frames_5
+  - walking animation frames_4
+  - walking animation frames_7
+  - walking animation frames_6
+  - walking animation frames_1
+  - walking animation frames_0
+  - walking animation frames_3
+  - walking animation frames_2
+  - walking animation frames_10
+  - walking animation frames_11
+  m_RenderDataMap: {}
+  m_Tag: walking animation
+  m_IsVariant: 0

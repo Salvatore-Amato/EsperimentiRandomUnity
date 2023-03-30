@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Tails atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: e85133121f0b96044a0a1adf2c321dea, type: 3}
+    - {fileID: 2800000, guid: ac879e9a8175c2e4f920a1dc47ca414c, type: 3}
+    - {fileID: -1194671399, guid: a1458943d019a0849bb3ae08d0ab07be, type: 3}
+    - {fileID: -1457514161, guid: a1458943d019a0849bb3ae08d0ab07be, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 1549052923, guid: e85133121f0b96044a0a1adf2c321dea, type: 3}
+  - {fileID: -1457514161, guid: a1458943d019a0849bb3ae08d0ab07be, type: 3}
+  - {fileID: -1194671399, guid: a1458943d019a0849bb3ae08d0ab07be, type: 3}
+  - {fileID: 1812166896, guid: ac879e9a8175c2e4f920a1dc47ca414c, type: 3}
+  - {fileID: 1648004857, guid: ac879e9a8175c2e4f920a1dc47ca414c, type: 3}
+  - {fileID: 231967956, guid: ac879e9a8175c2e4f920a1dc47ca414c, type: 3}
+  - {fileID: 1732187038, guid: ac879e9a8175c2e4f920a1dc47ca414c, type: 3}
+  - {fileID: 1807221860, guid: ac879e9a8175c2e4f920a1dc47ca414c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - hng t_0
+  - tails_5
+  - tails_3
+  - tailando_2
+  - tailando_3
+  - tailando_0
+  - tailando_1
+  - tailando_4
+  m_RenderDataMap: {}
+  m_Tag: Tails atlas
+  m_IsVariant: 0
